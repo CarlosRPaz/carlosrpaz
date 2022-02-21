@@ -1,5 +1,5 @@
 <h1>Carlos Paz</h1>
-<h3>Front End Developer from Los Angeles</h3>
+<h3>Front End Developer | React</h3>
 </br>
 <p>I'm Carlos, a Front End Developer from <b>Los Angeles, California</b>. I am looking for a career in web development or software engineering. I have recently graduated with a BA in Interdisciplinary Studies at <b>Arizona State University</b>, focusing in Informatics and Computer Gaming. 
 
